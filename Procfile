@@ -1,0 +1,1 @@
+worker: python10 C:\Users\Goharik\Documents\BBRINNIEBOT
