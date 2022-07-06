@@ -1,1 +1,1 @@
-worker: python10 C:\Users\Goharik\Documents\BBRINNIEBOT
+worker: python10 bot.py
